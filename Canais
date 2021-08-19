@@ -1,10 +1,4 @@
-<item>
-<title>Record TV</title>
-<link>https://dtv-latam-jbc.akamaized.net/dash/live/2022505/dtv/sbt/1629322370/720p-30fps-3500k-11314.mp4</link>
-<thumbnail>http://www.otvfoco.com.br/wp-content/uploads/2016/11/LOGO_RECORD_TV.jpg</thumbnail>
-<genre>Noticias/Novelas/Programas</genre>
-<info>Record TV</info>
-<date>19.08.2021</date>
-<epg></epg>
-<fanart>http://www.otvfoco.com.br/wp-content/uploads/2016/11/LOGO_RECORD_TV.jpg</fanart>
-</item>
+#EXTM3U
+
+EXTINF:-1 tvg-logo="" group-title="Adulto",Telecine Premiun
+https://dtv-latam-jbc.akamaized.net/dash/live/2004573/sky/dtvlatam-telecine1hd/1629322422/396p-30fps-1350k-11890.mp4
