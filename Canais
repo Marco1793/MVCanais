@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" tvg-country="BR" tvg-language="" tvg-logo="" group-title="News",Record News (720p)
-https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Aracati" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/be677f392b634453f48ef4e0819c7532.jpg" group-title="Canais | Filmes e Séries",ARACATI TV (Séries)
+https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/telecinepipoca_fd937516_8bc14a00a16b3f86b53c283616d3a51e07339b6d/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTcyLjY4LjI1LjIwMiI7aToxO3M6MTE0OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85Mi4wLjQ1MTUuMTU5IFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2Mjk0MDAxMTU7fQ%3D%3D
